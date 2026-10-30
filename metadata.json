@@ -1,0 +1,6 @@
+{
+  "name": "Plataforma Inteligente de Gestión PQR y Radicaciones",
+  "description": "Sistema bancario para orientación comercial, asistencia técnica APY a promotores, clasificación masiva de PQR con IA y auditoría de reglas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
